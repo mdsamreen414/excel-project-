@@ -4,12 +4,12 @@
 
 The kpi's i have done in project<bR>          
 Total Sales Revenue – Displays the overall revenue generated.<br>
-Monthly Sales Comparison – Shows how sales have changed over different months.
-Best-Selling Products – Identifies the top products based on sales volume.
-Top Customers – Highlights customers contributing the most revenue.
-Sales Trends – Visualizes sales patterns over time.
-Regional Sales Performance – Compares sales across different locations.
-Average Order Value (AOV) – Calculates the average sales per order.
-Profit Margins – Measures profitability across products or categories.
-Inventory Insights – Shows stock levels for key products.
-Sales Growth Rate – Compares current sales with previous periods to track growth.
+Monthly Sales Comparison – Shows how sales have changed over different months.<br>
+Best-Selling Products – Identifies the top products based on sales volume.<br>
+Top Customers – Highlights customers contributing the most revenue.<br>
+Sales Trends – Visualizes sales patterns over time.<br>
+Regional Sales Performance – Compares sales across different locations.<br>
+Average Order Value (AOV) – Calculates the average sales per order.<br>
+Profit Margins – Measures profitability across products or categories.<br>
+Inventory Insights – Shows stock levels for key products.<br>
+Sales Growth Rate – Compares current sales with previous periods to track growth.<br>
